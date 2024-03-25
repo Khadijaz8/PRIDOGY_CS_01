@@ -1,5 +1,6 @@
 # PRODIGY_CS_01
 Ceaser Cipher
+Author  Khadija Ijaz
 This HTML and JavaScript code creates a simple currency converter web application. Here's a breakdown of what each part of the code does:
 
 ### HTML (index.html)
