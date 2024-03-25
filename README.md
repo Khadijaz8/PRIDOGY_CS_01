@@ -1,11 +1,11 @@
 # PRODIGY_CS_01
 Ceaser Cipher<br>
-Author  Khadija Ijaz<br>
+<br>Author  Khadija Ijaz<br>
 This HTML and JavaScript code creates a simple currency converter web application. Here's a breakdown of what each part of the code does:
 
 ### HTML (index.html)
 - The HTML structure defines a form for the currency converter.
-- It includes input fields for entering the amount to convert and dropdown menus for selecting the currencies to convert from and to.
+- It includes input fieldsg for entering the amount to convert and dropdown menus for selecting the currencies to convert from and to.
 - The result of the conversion is displayed below the form.
 - External CSS and JavaScript files are linked.
 
