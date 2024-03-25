@@ -1,6 +1,6 @@
 # PRODIGY_CS_01
 Ceaser Cipher
-Author  Khadija Ijaz
+Author  Khadija Ijaz<br>
 This HTML and JavaScript code creates a simple currency converter web application. Here's a breakdown of what each part of the code does:
 
 ### HTML (index.html)
@@ -25,4 +25,3 @@ This HTML and JavaScript code creates a simple currency converter web applicatio
 - Flag images representing countries are displayed alongside the currency dropdown menus.
 - Default values for currency dropdowns are set to USD and PKR (United States Dollar and Pakistani Rupee).
 - Styling is done using CSS to make the interface visually appealing.
-
